@@ -21,7 +21,8 @@ Ensure you have your Uber driver account credentials ready.
 Modify the driver_path in the script to the path where you have placed the ChromeDriver executable:
 
 driver_path = 'path/to/your/chromedriver'
-Running the Script
+Running the Script.
+
 Automated Login:
 
 Run the script:
